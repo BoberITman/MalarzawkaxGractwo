@@ -1,0 +1,13 @@
+filename = 'create_money_1.20.1_forge_1.0.0.jar'
+name = 'Create Coins'
+side = 'both'
+
+[download]
+hash = 'e9d6df2080dc94d3a1dbdcbbff223df3d4ec05a3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4813862
+project-id = 926886

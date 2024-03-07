@@ -1,0 +1,13 @@
+filename = 'letsdo-brewery-forge-1.1.4.jar'
+name = "[Let's Do] Brewery"
+side = 'both'
+
+[download]
+hash = '1b1649603baa76a63def7a867e73694cabc0b685fef7a1d8e90bdf22b70e3dabb3025410ddc7d05a2e77e55068b93d215de0b12b6b18e488daec85d8c2633e94'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cV5LQXKx/versions/XTz5j4Pi/letsdo-brewery-forge-1.1.4.jar'
+
+[update.modrinth]
+mod-id = 'cV5LQXKx'
+version = 'XTz5j4Pi'

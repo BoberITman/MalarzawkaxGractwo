@@ -1,0 +1,13 @@
+filename = 'camps_castles_carriages-2.2.jar'
+name = 'Camps. Castles. Carriages.'
+side = 'server'
+
+[download]
+hash = '1c90304b03b42fa72fc7fc63a71fc592d71521e4eea9525b74895237af06f6a4516b5ff5662c097d2cff487f37c12db614b893e02989561e258d76a1e1f36925'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/h9XxzZxe/versions/XD3gDBx2/camps_castles_carriages-2.2.jar'
+
+[update.modrinth]
+mod-id = 'h9XxzZxe'
+version = 'XD3gDBx2'

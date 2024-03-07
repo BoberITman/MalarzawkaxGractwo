@@ -1,0 +1,13 @@
+filename = 'MekanismTools-1.20.1-10.4.6.20.jar'
+name = 'Mekanism Tools'
+side = 'both'
+
+[download]
+hash = '9f3f981aec4f07f64afffac52ca688ad4a082213965678de5c421e40fe75785f46c9491cfb97be2d83bc88bf3fe4539b8c5bc6df7ea2694b5ed045353f061d08'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tqQpq1lt/versions/tsH6SxFL/MekanismTools-1.20.1-10.4.6.20.jar'
+
+[update.modrinth]
+mod-id = 'tqQpq1lt'
+version = 'tsH6SxFL'

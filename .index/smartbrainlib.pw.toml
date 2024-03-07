@@ -1,0 +1,13 @@
+filename = 'SmartBrainLib-forge-1.20.1-1.13.jar'
+name = 'SmartBrainLib'
+side = 'server'
+
+[download]
+hash = '49cb42fba8e294748c9278cb54ab3d3b6e4771e81c9f98b198d53c0f5a241626aeba54995659a77f628ac5b9bc208281db7e3f797e6cfa7321a0d1852b249139'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PuyPazRT/versions/oLNiEUfG/SmartBrainLib-forge-1.20.1-1.13.jar'
+
+[update.modrinth]
+mod-id = 'PuyPazRT'
+version = 'oLNiEUfG'

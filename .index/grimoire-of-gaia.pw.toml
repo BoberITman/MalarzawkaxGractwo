@@ -1,0 +1,13 @@
+filename = 'GrimoireOfGaia4-1.20.1-4.0.0-alpha.7.jar'
+name = 'Grimoire of Gaia'
+side = 'both'
+
+[download]
+hash = '7ed5fa5617d2d40d7d7d98b141b0bb6b409b307b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5132789
+project-id = 228948

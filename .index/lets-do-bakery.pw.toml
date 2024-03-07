@@ -1,0 +1,13 @@
+filename = 'letsdo-bakery-forge-1.1.3b.jar'
+name = "Let's Do: Bakery"
+side = 'both'
+
+[download]
+hash = 'c90b724fec6fcb951780ac3c480dc3191766a59f8546b8ee41f032a047d2fbfa52819ddf794f1b26d38340c62bec075a05ba76ff3b1f5b81a87b6a463885c677'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WFwYiVoG/versions/UEn6Lco7/letsdo-bakery-forge-1.1.3b.jar'
+
+[update.modrinth]
+mod-id = 'WFwYiVoG'
+version = 'UEn6Lco7'

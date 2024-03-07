@@ -1,0 +1,13 @@
+filename = 'genshinstrument-1.20+1.20.1-3.4.jar'
+name = 'Genshin Instruments'
+side = 'both'
+
+[download]
+hash = 'bd1c7126e6f0ffc87e99d932320d4e9ee025bc9110b59d975399d682fc06720cc697d43aa0c59e8b7904746227a9839b8a0cb2c3d9f735a1a8088e8f35725bfa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UUD6Qkij/versions/z0XEGXJ3/genshinstrument-1.20%2B1.20.1-3.4.jar'
+
+[update.modrinth]
+mod-id = 'UUD6Qkij'
+version = 'z0XEGXJ3'

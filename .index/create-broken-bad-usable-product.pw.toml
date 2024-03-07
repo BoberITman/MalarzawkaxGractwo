@@ -1,0 +1,13 @@
+filename = 'Usable Product V4.0.1 - 1.20.1.jar'
+name = 'Create: Broken Bad Usable product'
+side = 'both'
+
+[download]
+hash = 'b3561f8af371760c05e13381d3d3f35c1c8a4946'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5104963
+project-id = 954136

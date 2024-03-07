@@ -1,0 +1,13 @@
+filename = 'embersrekindled-1.20.1-1.1.1.jar'
+name = 'Embers Rekindled'
+side = 'both'
+
+[download]
+hash = 'f1f21a31efdeac96be6ccbecae560adc193616170a5fc47e5ac93972af6f09f37e06235cfe0731f47666f061bce811af505c21842b142d84cba2b001b20375ee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eMWmEr1R/versions/Se0nBtlw/embersrekindled-1.20.1-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'eMWmEr1R'
+version = 'Se0nBtlw'

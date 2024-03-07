@@ -1,0 +1,13 @@
+filename = 'BOH_0.0.5.jar'
+name = 'The Box Of Horrors'
+side = 'both'
+
+[download]
+hash = 'bca0871ce2a3f709c3f4aa4171eda56428de58e4553511963b09ae44a6dac68a9bb315a276cfcbaf0f85424edbf70b8d01dd4abc12329161811a2849c21f9082'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Nt0wLqt5/versions/mYzw4wA4/BOH_0.0.5.jar'
+
+[update.modrinth]
+mod-id = 'Nt0wLqt5'
+version = 'mYzw4wA4'

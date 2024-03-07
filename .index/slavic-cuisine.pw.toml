@@ -1,0 +1,13 @@
+filename = 'slavic-cuisine-0.9.0.jar'
+name = 'Slavic Cuisine'
+side = 'both'
+
+[download]
+hash = 'e025874a7a4c7dfe5609482e1978a0b345b53b169719b644bacf4c1e6fa279ba18cc5eefd3d01702b7ccb1d87d0418ed17f009bf71a7530222af7360cbd27e52'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FYIDon7y/versions/jNiuEUWA/slavic-cuisine-0.9.0.jar'
+
+[update.modrinth]
+mod-id = 'FYIDon7y'
+version = 'jNiuEUWA'

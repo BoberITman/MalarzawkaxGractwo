@@ -1,0 +1,13 @@
+filename = 'ars_ocultas-1.20.1-1.2.1-all.jar'
+name = 'Ars Ocultas'
+side = 'both'
+
+[download]
+hash = 'e166610b245a8431d2f4e8f6040e5d65bb2c935fe38e2beac83d0d07198a122914ef794fd54e9cba784d72b4bfefa4670e6efc6b9d32ac55fd67c25ac3a8e222'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Tsw8vbks/versions/T3mH4TOb/ars_ocultas-1.20.1-1.2.1-all.jar'
+
+[update.modrinth]
+mod-id = 'Tsw8vbks'
+version = 'T3mH4TOb'

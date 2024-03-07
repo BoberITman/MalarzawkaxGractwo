@@ -1,0 +1,13 @@
+filename = 'majruszs-accessories-forge-1.20.1-1.5.2.jar'
+name = "Majrusz's Accessories"
+side = 'both'
+
+[download]
+hash = '184a03333b3c5f4f9a286477622e6917b7856aa4c3a735c405eeae79372d7ee0ae6c9eccff36b96bfec48bf19239901adc65d7eaf9f72bd39184ecab021fadb1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6roN0iTa/versions/5leEHT8k/majruszs-accessories-forge-1.20.1-1.5.2.jar'
+
+[update.modrinth]
+mod-id = '6roN0iTa'
+version = '5leEHT8k'

@@ -1,0 +1,13 @@
+filename = 'JustOutdoorStuffs-1.20.1-forge-v1.0.2.jar'
+name = 'Just Outdoor Stuffs'
+side = 'both'
+
+[download]
+hash = 'f22df28a0b62167ae7a6484cb5b87c991c2720d15444190e5cb1debd228ca136bbc1936f67368b6f18f0933453817a9cab140d9a01a88a7cd0d7ee1e45e9b06f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6hCfRrRD/versions/XVjqcHnq/JustOutdoorStuffs-1.20.1-forge-v1.0.2.jar'
+
+[update.modrinth]
+mod-id = '6hCfRrRD'
+version = 'XVjqcHnq'

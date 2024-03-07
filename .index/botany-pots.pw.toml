@@ -1,0 +1,13 @@
+filename = 'BotanyPots-Forge-1.20.1-13.0.24.jar'
+name = 'Botany Pots'
+side = 'both'
+
+[download]
+hash = 'a55edc2859a7a5fbd9d997e169984de1a51f278287c55a2091765e44f2dedff4e907f0ae0ee4dbb77e005400aa1ed43b91549d9c3fc81091281758c46cbc0948'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/U6BUTZ7K/versions/sCescu0C/BotanyPots-Forge-1.20.1-13.0.24.jar'
+
+[update.modrinth]
+mod-id = 'U6BUTZ7K'
+version = 'sCescu0C'

@@ -1,0 +1,13 @@
+filename = 'scorched-1.1.3c.jar'
+name = 'Scorched'
+side = 'server'
+
+[download]
+hash = '96d3704669319047c5c7f99207c1ccb4d69849dfa8becb0d511cdc10a575886060b464eb4d1a65a02cf961ec0f79e6409b1d1e8142158479e2271d59529f305a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yID404Mu/versions/dy1TW0Rk/scorched-1.1.3c.jar'
+
+[update.modrinth]
+mod-id = 'yID404Mu'
+version = 'dy1TW0Rk'

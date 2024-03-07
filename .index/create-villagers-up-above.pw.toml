@@ -1,0 +1,13 @@
+filename = 'create_villagerology-1.20.1-b.jar'
+name = 'Create: Villagerology'
+side = 'both'
+
+[download]
+hash = '782d3c93196f6a58364901b95399ce3f20cf8f80'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4772277
+project-id = 916864
